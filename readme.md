@@ -9,5 +9,5 @@ Upload, activate, then visit the IDL Settings Page. You enable/disable the Cat S
 I base all my super simple WordPress plugins with no more than a few options on the example built by [OZH](http://planetozh.com/blog/2009/05/handling-plugins-options-in-wordpress-28-with-register_setting/), so as always a big thanks to him.
 
 
-####
+#### License
 Use under Public License, MIT, or GPLv2
